@@ -1,16 +1,7 @@
 # careconnect
+CareConnect is a Flutter-based mobile application designed to connect patients with doctors across various specialties. With a fully coded UI, CareConnect offers a user-friendly interface for seamless patient-doctor interactions.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+* Doctor Directory: Browse doctors by specialty and location.
+* Patient-Doctor Connection: Easily book appointments and connect with doctors.
+* Coded UI: A clean, intuitive interface built entirely in Flutter.
